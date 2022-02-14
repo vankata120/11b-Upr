@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirst", "RemoveFirst\RemoveFirst.csproj", "{91D1B278-59E4-4444-8B62-CA27439C43CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveFirst", "RemoveFirst\RemoveFirst.csproj", "{91D1B278-59E4-4444-8B62-CA27439C43CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{D9A469C6-18FE-45B5-ADF0-D2FEA0AD6EB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A469C6-18FE-45B5-ADF0-D2FEA0AD6EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A469C6-18FE-45B5-ADF0-D2FEA0AD6EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A469C6-18FE-45B5-ADF0-D2FEA0AD6EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A469C6-18FE-45B5-ADF0-D2FEA0AD6EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
