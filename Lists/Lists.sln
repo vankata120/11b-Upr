@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirst", "RemoveFirst\RemoveFirst.csproj", "{91D1B278-59E4-4444-8B62-CA27439C43CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D1B278-59E4-4444-8B62-CA27439C43CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FDE06D-7192-4679-BD0C-D98E75A02C91}
+	EndGlobalSection
+EndGlobal
